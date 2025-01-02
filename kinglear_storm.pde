@@ -3,7 +3,7 @@ boolean lightning = false;
 float rainFrequency = 0.05;  
 int lightningCounter = 0;  
 void setup() {
-  size(800,600);
+  size(1000,1000);
   noStroke();
 }
 
